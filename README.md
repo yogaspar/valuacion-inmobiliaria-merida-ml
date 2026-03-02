@@ -15,7 +15,7 @@ Se comparan:
 | Random Forest | 300,754 | 544,720 | 0.942 |
 
 ## Conclusión
-Random Forest captura relaciones no lineales y mejora el desempeño predictivo en aproximadamente 43%.
+Random Forest captura relaciones no lineales y mejora el desempeño predictivo en aproximadamente 43% con respecto a la regresión lineal.
 
 ## Tecnologías
 Python, Pandas, Scikit-learn, Matplotlib
